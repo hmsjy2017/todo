@@ -2,8 +2,4 @@
 
 Pack these software.
 
-https://github.com/blacktop/ipsw
-
-https://github.com/voidint/g
-
-https://github.com/moovweb/gvm
+https://github.com/hmsjy2017/todo/issues/1
